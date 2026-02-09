@@ -9,13 +9,13 @@
 
 👨‍💻 About Me
 
-🎓 MS in Software Engineering Systems @ Northeastern University (2024-2025)
-💼 Former Software Engineer II @ Tata Consultancy Services with 4+ years of experience
-🔭 Currently working on full-stack applications with Spring Boot, React, and AWS
-🌱 Exploring Kubernetes, Terraform, and event-driven architectures
-📍 Based in Boston, MA (Open to relocation)
-💬 Ask me about Microservices, Cloud Infrastructure, CI/CD, and System Design
-⚡ Fun fact: I love optimizing performance and building scalable systems!
+🎓 MS in Software Engineering Systems @ Northeastern University (2024-2025)  
+💼 Former Software Engineer II @ Tata Consultancy Services with 4+ years of experience  
+🔭 Currently working on full-stack applications with Spring Boot, React, and AWS  
+🌱 Exploring Kubernetes, Terraform, and event-driven architectures  
+📍 Based in Boston, MA (Open to relocation)  
+💬 Ask me about Microservices, Cloud Infrastructure, CI/CD, and System Design  
+⚡ Fun fact: I love optimizing performance and building scalable systems!  
 
 <!--
 **muzumdaramruta/muzumdaramruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
